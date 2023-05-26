@@ -12,7 +12,6 @@ public class beecrowd1244 {
         while(n < cont)
             conjuntoDeStrings = leia.nextLine().split(" ");
            
-
             for (int j = 1; j < conjuntoDeStrings.length; j++) {
 
                 int indice = j - 1;
