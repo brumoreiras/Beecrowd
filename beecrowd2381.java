@@ -1,4 +1,3 @@
-//teste
 import java.util.Scanner;
 
 public class beecrowd2381 {
